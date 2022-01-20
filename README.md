@@ -15,8 +15,18 @@ Some Technologies/Tools I use or have experience with:
 * Git/GitHub
 * MATLAB
 * SQL
+* Power BI
 * HTML
 * Java
+
+Editors:
+* Jupyter Notebook
+* Google Colab
+* Deepnote
+* VSCode
+* Spyder
+* R Studio
+
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rub27182n&show_icons=true&locale=en&layout=compact" alt="Rub27182n"/>
 
