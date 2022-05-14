@@ -12,10 +12,12 @@ Some Technologies/Tools I use or have experience with:
 * R
 * Excel
 * LaTeX
+* Markdown
 * Git/GitHub
 * MATLAB
 * SQL
 * Power BI
+* Tableau
 * HTML
 * Java
 
