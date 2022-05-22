@@ -42,6 +42,10 @@ Editors:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rub27182n&repo=ETL-pipeline)](https://github.com/Rub27182n/ETL-pipeline)
 
+**Exploratory Data Analysis automation script**
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rub27182n&repo=EDA)](https://github.com/Rub27182n/EDA)
+
 **Financial Complaints Dashboard - Tableau**
 <p align="left" style="vertical-align:middle;">
 
