@@ -46,6 +46,10 @@ Editors:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rub27182n&repo=Proyecto-PI)](https://github.com/Rub27182n/Proyecto-PI)
 
+**Python ETL pipeline**
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rub27182n&repo=ETL-pipeline)](https://github.com/Rub27182n/ETL-pipeline)
+
 ### **My hobbies are:**
 
 * Videogames, I'm and advocate of videogames as an art form
