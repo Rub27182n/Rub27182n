@@ -45,7 +45,7 @@ Editors:
 **Financial Complaints Dashboard - Tableau**
 <p align="left" style="vertical-align:middle;">
 
-  <a href = "https://public.tableau.com/app/profile/rub.n.hern.ndez.guevara/viz/FinancialComplaints_16530042490140/FCOVERVIEW"><img src="Dashboard.png" width="280" height="175"></a>
+  <a href = "https://public.tableau.com/app/profile/rub.n.hern.ndez.guevara/viz/FinancialComplaints_16530042490140/FCOVERVIEW"><img src="Dashboard.png" width="400" height="240"></a>
 </p>
 
 **Data Science Applied to YouTube Metrics**
