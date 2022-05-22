@@ -38,6 +38,13 @@ Editors:
 
 ### **My recent projects:**
 
+**Python ETL pipeline (Most recent)**
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rub27182n&repo=ETL-pipeline)](https://github.com/Rub27182n/ETL-pipeline)
+
+**Financial Complaints Dashboard - Tableau**
+![Readme Card](https://public.tableau.com/app/profile/rub.n.hern.ndez.guevara/viz/FinancialComplaints_16530042490140/FCOVERVIEW)
+
 **Data Science Applied to YouTube Metrics**
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rub27182n&repo=Proyecto-SPF)](https://github.com/Rub27182n/Proyecto-SPF)
@@ -45,10 +52,6 @@ Editors:
 **Portfolio Management With Python**
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rub27182n&repo=Proyecto-PI)](https://github.com/Rub27182n/Proyecto-PI)
-
-**Python ETL pipeline**
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rub27182n&repo=ETL-pipeline)](https://github.com/Rub27182n/ETL-pipeline)
 
 ### **My hobbies are:**
 
