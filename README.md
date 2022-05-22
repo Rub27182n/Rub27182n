@@ -4,7 +4,7 @@
 
 My name is Rubén, so everyone calls me... Rubén; my username for everything is [Rub27182n](https://linktr.ee/Rub27182n), if you get the reference we can be friends, if not, maybe.
 
-I'm currently studying **Financial Engineering** at the [Instituto Tecnológico y de Estudios Superiores de Occidente (ITESO)](https://carreras.iteso.mx/ingenieria-financiera). This allowed me to discover Data Science, which is an area I'd like to focus my career on. I'm also learning about Blockchain, Artificial Intelligence, and things related to. In October 2021 I was accepted in a program named IBM Student Advocate.
+I'm currently studying **Financial Engineering** at the [Instituto Tecnológico y de Estudios Superiores de Occidente (ITESO)](https://carreras.iteso.mx/ingenieria-financiera). This allowed me to discover Data Science, which is an area I'd like to focus my career on. I'm also learning about Blockchain, Artificial Intelligence, and things related to.
 
 Some Technologies/Tools I use or have experience with:
 
