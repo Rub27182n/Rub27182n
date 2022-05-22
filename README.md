@@ -43,7 +43,10 @@ Editors:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rub27182n&repo=ETL-pipeline)](https://github.com/Rub27182n/ETL-pipeline)
 
 **Financial Complaints Dashboard - Tableau**
-![Dashboard](https://public.tableau.com/app/profile/rub.n.hern.ndez.guevara/viz/FinancialComplaints_16530042490140/FCOVERVIEW)
+<p align="left" style="vertical-align:middle;">
+https://public.tableau.com/app/profile/rub.n.hern.ndez.guevara/viz/FinancialComplaints_16530042490140/FCOVERVIEW
+  <a href = "https://public.tableau.com/app/profile/rub.n.hern.ndez.guevara/viz/FinancialComplaints_16530042490140/FCOVERVIEW"><img src="Dashboard.png" width="150" height="130"></a>
+</p>
 
 **Data Science Applied to YouTube Metrics**
 
