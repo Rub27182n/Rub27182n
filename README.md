@@ -30,7 +30,7 @@ Editors:
 * R Studio
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rub27182n&show_icons=true&locale=en&layout=compact" alt="Rub27182n"/>
+<!--- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rub27182n&show_icons=true&locale=en&layout=compact" alt="Rub27182n"/> --->
 
 ### **Some of my work in the community:**
 
