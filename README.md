@@ -39,6 +39,7 @@ Editors:
 ### **My recent projects:**
 
 **Algorithmic Trading (Most recent)**
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rub27182n&repo=Algorithmic_trading)](https://github.com/Rub27182n/Algorithmic_trading)
 
 **Python ETL pipeline**
