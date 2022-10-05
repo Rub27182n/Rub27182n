@@ -1,100 +1,102 @@
-<img src="https://labibliotecadealexandria.com/wp-content/uploads/2022/07/Etapas-do-Data-Science-para-aplicar-na-sua-empresa.gif" align="left" height="250" width="600" />  
-  
-<br/>  
+# \Namaste, World{
 
-- 🔭 I’m currently working at [HPE](https://github.com/rishavanand/github-profilinator)  
-  
+### **About Me:**
 
-- 🌱 I’m currently learning Hyperledger and Kubernetes  
-  
+My name is Rubén, so everyone calls me... Rubén; my username for everything is [Rub27182n](https://linktr.ee/Rub27182n), if you get the reference we can be friends, if not, maybe.
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
-  
+I'm currently studying **Financial Engineering** at the [Instituto Tecnológico y de Estudios Superiores de Occidente (ITESO)](https://carreras.iteso.mx/ingenieria-financiera). This allowed me to discover Data Science, which is an area I'd like to focus my career on. I'm also learning about Blockchain, Artificial Intelligence, and things related to.
 
-- ⚡ Fun fact: I use tabs over spaces  
-  
+Some Technologies/Tools I use or have experience with:
 
-<br/>  
+* Python
+* R
+* Excel
+* LaTeX
+* Markdown
+* Git/GitHub
+* MATLAB
+* SQL
+* Power BI
+* Tableau
+* HTML
+* Java
 
-
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
-
-<div align="center">  
-<a href="https://www.scala-lang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/scala-original-wordmark.svg" alt="Scala" height="50" /></a>  
-<a href="https://powerbi.microsoft.com/en-us/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powerbi.png" alt="Power Bi" height="50" /></a>  
-<a href="https://www.r-project.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/r.svg" alt="R" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-</div>
-
-</td><td valign="top" width="33%">
-
-<div align="center">  
-<a href="https://www.tensorflow.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="50" /></a>  
-<a href="https://www.tableau.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tableau.svg" alt="Tableau" height="50" /></a>  
-<a href="https://www.latex-project.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/latex.png" alt="LaTeX" height="50" /></a>  
-<a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="50" /></a>  
-</div>
-
-</td><td valign="top" width="33%">
-
-<div align="center">  
-<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-<a href="https://www.salesforce.com/in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/salesforce.png" alt="Salesforce" height="50" /></a>  
-<a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" /></a>  
-</div>
-
-</td></tr></table>  
-
-<br/>  
+Editors:
+* Jupyter Notebook
+* Google Colab
+* Deepnote
+* VSCode
+* Spyder
+* R Studio
 
 
-## Connect with me  
-<div align="center">
-<a href="https://github.com/https://github.com/Rub27182n" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/https://twitter.com/Rub27182n" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/rub27182n/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://gitlab.com/https://gitlab.com/Rub27182n" target="_blank">
-<img src=https://img.shields.io/badge/gitlab-330F63.svg?&style=for-the-badge&logo=gitlab&logoColor=white alt=gitlab style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
+<!--- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rub27182n&show_icons=true&locale=en&layout=compact" alt="Rub27182n"/> --->
 
-<br/>  
+### **Some of my work in the community:**
+
+![Rub27182n GitHub stats](https://github-readme-stats.vercel.app/api?username=Rub27182n&show_icons=true&theme=radical)
+
+### **My recent projects:**
+
+**Algorithmic Trading (Most recent)**
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rub27182n&repo=Algorithmic_trading)](https://github.com/Rub27182n/Algorithmic_trading)
+
+**Python ETL pipeline**
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rub27182n&repo=ETL-pipeline)](https://github.com/Rub27182n/ETL-pipeline)
+
+**Exploratory Data Analysis automation script**
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rub27182n&repo=EDA)](https://github.com/Rub27182n/EDA)
+
+**Financial Complaints Dashboard - Tableau**
+<p align="left" style="vertical-align:middle;">
+
+  <a href = "https://public.tableau.com/app/profile/rub.n.hern.ndez.guevara/viz/FinancialComplaints_16530042490140/FCOVERVIEW"><img src="Dashboard.png" width="400" height="240"></a>
+</p>
+
+**Data Science Applied to YouTube Metrics**
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rub27182n&repo=Proyecto-SPF)](https://github.com/Rub27182n/Proyecto-SPF)
+
+**Portfolio Management With Python**
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rub27182n&repo=Proyecto-PI)](https://github.com/Rub27182n/Proyecto-PI)
+
+### **My hobbies are:**
+
+* Videogames, I'm and advocate of videogames as an art form
+* Music (rock, blues, jazz, funk, classic, andina and metal)
+* Playing piano and guitar. 
+* Cooking, specially Asian and Mexican food. 
+* I also enjoy reading books, articles or anything interesting I find on internet. 
+* Spending time with my best friend, my dog pakkun a.k.a "El Pepe" + 10 nicknames more.
+
+## 🏅 Highlighted badges/certificates
+
+<p align="center" style="vertical-align:middle;">
+  <a href="https://www.credly.com/earner/earned/badge/661436e3-98a8-49fa-b47b-22d2fb0b05a0"><img src="https://images.credly.com/size/100x100/images/5ca7b236-6105-4154-ba22-c8ae12ec1d8c/Data_Sci_Found_Level_1_-_CC_-_2019.png"></a>
+  <a href="https://www.credly.com/earner/earned/badge/99819c59-f0f3-4b45-b98f-1bf83a78d3a3"><img src="https://images.credly.com/size/100x100/images/84ac9eff-b8a2-4683-846b-f59887a73801/Python_101_Data_Science.png"></a>
+  <a href = "https://platzi.com/p/Rub27182n/curso/2302-diversidad-inclusion/diploma/detalle/"><img src = "https://static.platzi.com/media/achievements/badge-diversidad-38d8e831-d0bc-49e5-bf4a-56af9bbad761.png" width="100" height="100"></a>
+  <a href = "https://platzi.com/p/Rub27182n/curso/1188-ingles/diploma/detalle/"><img src = "https://static.platzi.com/media/achievements/1188-ea5968c2-aedf-436c-bd94-9141a594770f.png" width = '100' height = '100'></a>
+  <a href = "https://platzi.com/p/Rub27182n/curso/1098-ingenieria/diploma/detalle/"><img src = "https://static.platzi.com/media/achievements/badge-ing-software-2017-18f503fd-36bd-42d8-b1a1-492865659687.png" width = '100' height = '100'></a>
+  <a href = "https://www.datacamp.com/profile/Rub27182n"><img src="DC_Logo.png" width="100" height="100"></a>
+</p>
 
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Rub27182n&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 100%" /></div>  
 
-<br/>  
+<img src="hr.png" width="100%" height="5px">
 
+This format was taken with permission from [Melissa Silva](https://github.com/melipass) c:
 
-## Recent Blog Posts  
-  
-
-<br/>  
-
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=rgh2015&cover_image=true&theme=default&show_offline=false" /></div>  
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=Rub27182n&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
+and without permission from [Yanni Martínez](https://github.com/YanniMartinez) xd
 
 
-<br />
+<img src="hr.png" width="100%" height="5px">
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+Modified by me, feel free to use it.
+# }
+
+
+
+
