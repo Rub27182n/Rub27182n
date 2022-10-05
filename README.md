@@ -96,7 +96,3 @@ and without permission from [Yanni Martínez](https://github.com/YanniMartinez) 
 
 Modified by me, feel free to use it.
 # }
-
-
-
-
