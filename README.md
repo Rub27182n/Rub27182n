@@ -1,5 +1,6 @@
 <img src="https://labibliotecadealexandria.com/wp-content/uploads/2022/07/Etapas-do-Data-Science-para-aplicar-na-sua-empresa.gif" align="left" height="250" width="600" />  
   
+<br/>  
 
 - 🔭 I’m currently working at [HPE](https://github.com/rishavanand/github-profilinator)  
   
