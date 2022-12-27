@@ -31,15 +31,15 @@ Some Technologies/Tools I use or have experience with:
 
 **Algorithmic Trading (Most recent)**
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rub27182n&repo=Algorithmic_trading)](https://github.com/Rub27182n/Algorithmic_trading)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ruhguevara&repo=Algorithmic_trading)](https://github.com/Ruhguevara/Algorithmic_trading)
 
 **Python ETL pipeline**
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rub27182n&repo=ETL-pipeline)](https://github.com/Rub27182n/ETL-pipeline)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ruhguevara&repo=ETL-pipeline)](https://github.com/Ruhguevara/ETL-pipeline)
 
 **Exploratory Data Analysis automation script**
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rub27182n&repo=EDA)](https://github.com/Rub27182n/EDA)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ruhguevara&repo=EDA)](https://github.com/Ruhguevara/EDA)
 
 **Financial Complaints Dashboard - Tableau**
 <p align="left" style="vertical-align:middle;">
@@ -49,11 +49,11 @@ Some Technologies/Tools I use or have experience with:
 
 **Data Science Applied to YouTube Metrics**
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rub27182n&repo=Proyecto-SPF)](https://github.com/Rub27182n/Proyecto-SPF)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ruhguevara&repo=Proyecto-SPF)](https://github.com/Ruhguevara/Proyecto-SPF)
 
 **Portfolio Management With Python**
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rub27182n&repo=Proyecto-PI)](https://github.com/Rub27182n/Proyecto-PI)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ruhguevara&repo=Proyecto-PI)](https://github.com/Ruhguevara/Proyecto-PI)
 
 ### **My hobbies are:**
 
