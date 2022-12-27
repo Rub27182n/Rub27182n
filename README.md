@@ -2,9 +2,9 @@
 
 ### **About Me:**
 
-My name is Rubén, so everyone calls me... Rubén; my username for everything is [Rub27182n](https://linktr.ee/Rub27182n), if you get the reference we can be friends, if not, maybe.
+My name is Rubén
 
-I'm currently studying **Financial Engineering** at the [Instituto Tecnológico y de Estudios Superiores de Occidente (ITESO)](https://carreras.iteso.mx/ingenieria-financiera). This allowed me to discover Data Science, which is an area I'd like to focus my career on. I'm also learning about Blockchain, Artificial Intelligence, and things related to.
+I have a strong foundation in data science, with three years of academic training in various topics, including machine learning, data analysis, statistics, data pipelines, and ETL, among others. In addition, I have gained practical experience through my professional role as a data science intern at HPE, where I have worked on various projects assuming different data science roles, such as data engineer and data scientist.
 
 Some Technologies/Tools I use or have experience with:
 
@@ -20,15 +20,6 @@ Some Technologies/Tools I use or have experience with:
 * Tableau
 * HTML
 * Java
-
-Editors:
-* Jupyter Notebook
-* Google Colab
-* Deepnote
-* VSCode
-* Spyder
-* R Studio
-
 
 <!--- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rub27182n&show_icons=true&locale=en&layout=compact" alt="Rub27182n"/> --->
 
