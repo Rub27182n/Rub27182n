@@ -25,7 +25,7 @@ Some Technologies/Tools I use or have experience with:
 
 ### **Some of my work in the community:**
 
-![Rub27182n GitHub stats](https://github-readme-stats.vercel.app/api?username=Rub27182n&show_icons=true&theme=radical)
+![Ruhguevara GitHub stats](https://github-readme-stats.vercel.app/api?username=Ruhguevara&show_icons=true&theme=radical)
 
 ### **My recent projects:**
 
