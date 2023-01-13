@@ -21,11 +21,11 @@ Some Technologies/Tools I use or have experience with:
 * HTML
 * Java
 
-<!--- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ruhguevara&show_icons=true&locale=en&layout=compact" alt="ruhguevara"/> --->
+<!--- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ruhguevara&show_icons=true&locale=en&layout=compact" alt="Ruhguevara"/> --->
 
 ### **Some of my work in the community:**
 
-![Ruhguevara GitHub stats](https://github-readme-stats.vercel.app/api?username=ruhguevara&show_icons=true&theme=radical)
+![Ruhguevara GitHub stats](https://github-readme-stats.vercel.app/api?username=Ruhguevara&show_icons=true&theme=radical)
 
 ### **My recent projects:**
 
