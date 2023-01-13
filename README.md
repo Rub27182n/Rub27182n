@@ -25,21 +25,21 @@ Some Technologies/Tools I use or have experience with:
 
 ### **Some of my work in the community:**
 
-![Ruhguevara GitHub stats](https://github-readme-stats.vercel.app/api?username=Ruhguevara&show_icons=true&theme=radical)
+![Ruhguevara GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Ruhguevara&show_icons=true&theme=radical)
 
 ### **My recent projects:**
 
 **Algorithmic Trading (Most recent)**
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ruhguevara&repo=Algorithmic_trading)](https://github.com/Ruhguevara/Algorithmic_trading)
+[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Ruhguevara&repo=Algorithmic_trading)](https://github.com/Ruhguevara/Algorithmic_trading)
 
 **Python ETL pipeline**
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ruhguevara&repo=ETL-pipeline)](https://github.com/Ruhguevara/ETL-pipeline)
+[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Ruhguevara&repo=ETL-pipeline)](https://github.com/Ruhguevara/ETL-pipeline)
 
 **Exploratory Data Analysis automation script**
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ruhguevara&repo=EDA)](https://github.com/Ruhguevara/EDA)
+[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Ruhguevara&repo=EDA)](https://github.com/Ruhguevara/EDA)
 
 **Financial Complaints Dashboard - Tableau**
 <p align="left" style="vertical-align:middle;">
@@ -49,11 +49,11 @@ Some Technologies/Tools I use or have experience with:
 
 **Data Science Applied to YouTube Metrics**
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ruhguevara&repo=Proyecto-SPF)](https://github.com/Ruhguevara/Proyecto-SPF)
+[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Ruhguevara&repo=Proyecto-SPF)](https://github.com/Ruhguevara/Proyecto-SPF)
 
 **Portfolio Management With Python**
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ruhguevara&repo=Proyecto-PI)](https://github.com/Ruhguevara/Proyecto-PI)
+[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Ruhguevara&repo=Proyecto-PI)](https://github.com/Ruhguevara/Proyecto-PI)
 
 ### **My hobbies are:**
 
