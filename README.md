@@ -4,7 +4,9 @@
 
 My name is Rubén (/ˈruːbən/)
 
-I have a strong foundation in data science, with three years of academic training in various topics, including machine learning, data analysis, statistics, data pipelines, and ETL, among others. In addition, I have gained practical experience through my professional role as a data science intern at HPE, where I have worked on various projects assuming different data science roles, such as data engineer and data scientist.
+Contact me at https://linktr.ee/Ruhguevara
+
+I have a strong foundation in data science, with three years of academic training in various topics, including machine learning, data analysis, statistics, data pipelines, ETL, among others. In addition, I have gained practical experience through my professional role as a data science intern at HPE, where I have worked on various projects assuming different data science roles, such as data engineer and data scientist.
 
 Some Technologies/Tools I use or have experience with:
 
@@ -20,6 +22,10 @@ Some Technologies/Tools I use or have experience with:
 * Tableau
 * HTML
 * Java
+* dbt
+* Google Cloud Platform
+* Amazon Web Services
+
 
 <!--- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ruhguevara&show_icons=true&locale=en&layout=compact" alt="Ruhguevara"/> --->
 
