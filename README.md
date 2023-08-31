@@ -35,9 +35,9 @@ Some Technologies/Tools I use or have experience with:
 
 ### **My recent projects:**
 
-**Algorithmic Trading (Most recent)**
+**Credit Card Fraud Detection (Most recent)**
 
-[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Ruhguevara&repo=Algorithmic_trading)](https://github.com/Ruhguevara/Algorithmic_trading)
+[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Ruhguevara&repo=credit_card_fraud_detection)](https://github.com/Ruhguevara/credit_card_fraud_detection)
 
 **Python ETL pipeline**
 
